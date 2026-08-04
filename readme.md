@@ -103,4 +103,5 @@ The datasets are joined using school identifiers to create a unified analytical 
 The datasets were obtained from the Dutch Ministry of Education (DUO) open data portal.
 
 Source:
-https://duo.nl/open_onderwijsdata/# Dutch_Primary_Education_Lakehouse_Pipeline
+https://duo.nl/open_onderwijsdata/
+
